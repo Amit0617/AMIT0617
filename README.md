@@ -47,20 +47,7 @@ Out of many [technical problems](https://amit0617.hashnode.dev/how-to-update-git
  <summary>One of the very real life problem, <em>poverty</em>, on which I continuously tinker and have come up with <a href="https://amit0617.hashnode.dev/the-accidental-wealth-found-in-a-student-engineers-wallet-address">many</a> <a href="https://amit0617.hashnode.dev/draining-null-address-an-ethereum-experiment">innovative ideas</a>. This reflects my perseverance and agility behind a problem, many people get accustomed to.</summary> (A bit of satire, however, innovation ideas are 100% technical and ethical)  
 </details>
 
-### Badges
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amit0617)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit0617)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amit0617&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amit0617)  
-
-![GitHub metrics](https://metrics.lecoq.io/amit0617)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amit0617)  
-
-![Profile views](https://gpvc.arturio.dev/amit0617)  
-The difference should be 264 because applied another one later, just curious if they really work.  
+### Check out open source portfolio
+[![GithubPortfolio](https://github.com/user-attachments/assets/5715a23a-e111-4339-aa5a-d0be9070b05e)](https://amit0617.github.io/Portfolio)
+ 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=amit0617&style=flat&color=blue"></p>
