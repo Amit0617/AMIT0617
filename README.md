@@ -2,7 +2,7 @@
 
 **Just a person who wants to have greater contribution than his consumption, loves to transition between research and entrepreneurship, solving problems and making impact.** 
 
-B.tech(2024) from Faculty of Engineering and Technology, JAMIA MILLIA ISLAMIA  
+B.tech(2024) FET, JMI  
 
 <details>
  <summary><b>Full-Stack Developer</b></summary>
